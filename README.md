@@ -1,4 +1,4 @@
-# Equities/ Digital Assets Prediction Model
+# Digital Assets Prediction Model
 
 Using yfinance and other libraries to gather data on equities/ digital assets. Financial techincal indicators like 'Relative Strength Index',
 'Moving average convergence divergence', and 'Exponential Move Averages' from the finta library are used to determine a Buy or Sell signal. 
